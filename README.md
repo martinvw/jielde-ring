@@ -26,6 +26,12 @@ See also on [Thingiverse](https://www.thingiverse.com/thing:4562108).
 
 ## Examples
 
+![Overview](photos/overview.png "Overview")
+
+![Lenses](photos/lenses.png "Lenses")
+
+![Original rings](photos/original.png "Original Rings")
+
 ![Jield ring render](photos/printer-render.png)
 
 ## License
