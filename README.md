@@ -26,13 +26,13 @@ See also on [Thingiverse](https://www.thingiverse.com/thing:4562108).
 
 ## Examples
 
-![Overview](photos/overview.png "Overview")
+![Overview](photos/overview.jpg "Overview")
 
-![Lenses](photos/lenses.png "Lenses")
+![Lenses](photos/lenses.jpg "Lenses")
 
-![Original rings](photos/original.png "Original Rings")
+![Original rings](photos/original.jpg "Original Rings")
 
-![Jield ring render](photos/printer-render.png)
+![Jield ring render](photos/print-render.png)
 
 ## License
 
